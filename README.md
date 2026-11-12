@@ -148,7 +148,7 @@ Real-Time-Flight-Data-Pipeline/
 **Abhishek More**
 
 - LinkedIn: [Abhishek More](https://www.linkedin.com/in/abhimore1234/)
-- GitHub: [GitHub Profile](https://github.com/YOUR_USERNAME)
+
 
 ---
 
