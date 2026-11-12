@@ -16,8 +16,6 @@ The final aggregated data is stored in Snowflake, where interactive dashboards a
 
 ## 🏗️ System Architecture
 
-![Flight Data Pipeline Architecture](ARCHITECTURE/architecture.png)
-
 **Data Flow:**
 
 Live Flight API → Apache Airflow → Bronze → Silver → Gold → Snowflake → Snowflake Dashboard
